@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/je-mekruger-baartjes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://linktr.ee/witsdevsocL">
+  <a href="https://linktr.ee/witsdevsoc">
     <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree Badge"/>
   </a>
 </div>
