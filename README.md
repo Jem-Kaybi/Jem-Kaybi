@@ -16,6 +16,7 @@
 I am a full-time Computer Science Honours student at the University of the Witwatersrand and the Head of the Wits Developer Society (WDS). WDS is a society I co-founded to provide aspiring developers at Wits a platform to interact with companies and their peers and to learn interesting things about themselves by collaborating on projects with said peers, attending our workshops or trying their luck at our hackathons.
 
 When I'm not studying Computer Science or running my society, you can find me
+
 📚 tucked in a corner somewhere reading a book,
 
 🗣 learning new languages (currently german),
