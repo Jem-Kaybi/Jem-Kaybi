@@ -73,7 +73,7 @@ I am still exploring tech to find my favourite thing about it, so I haven't sett
 </div>
 
 ### In the future I would like to explore the following technologies more
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="AWS" alt="AWS" width="40" height="40"/>  AWS &nbsp;<br>
+<img src=https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="20" height="20"/>  AWS &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/> Azure &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20" height="20"/> Flutter &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/> Java &nbsp;<br>
