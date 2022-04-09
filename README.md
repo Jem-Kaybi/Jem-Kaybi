@@ -17,9 +17,13 @@ I am a full-time Computer Science Honours student at the University of the Witwa
 
 When I'm not studying Computer Science or running my society, you can find me
 📚 tucked in a corner somewhere reading a book,
+
 🗣 learning new languages (currently german),
+
 🏊‍♀️ swimming, or
+
 🖌️ creating something (I love to paint, draw and crochet)
+
 
 I am still exploring tech to find my favourite thing about it, so I haven't settled on an exact role. For the moment, to best describe what I'm interested in I would consider myself a full-stack developer.
 
@@ -27,12 +31,14 @@ I am still exploring tech to find my favourite thing about it, so I haven't sett
 <div id="projects">
   
   <div id="rewards-based-data-labelling">
+    <h4> Rewards Based Data Labelling Platform </h4>
     <a href="https://github.com/Jem-Kaybi/reward-based-data-labelling">
       <img src="https://img.shields.io/badge/-frontend-lightgrey?style=for-the-badge&logoColor=white" alt="Frontend Link"/>
     </a>
     <a href="https://github.com/Jem-Kaybi/reward-based-data-labelling-server">
       <img src="https://img.shields.io/badge/-backend-lightgrey?style=for-the-badge&logoColor=white" alt="Backend Link"/>
     </a>
+    <hr/>
     <div id="technologies">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp;
@@ -42,9 +48,11 @@ I am still exploring tech to find my favourite thing about it, so I haven't sett
   </div>
   
   <div id="blockhops">
+    <h4> BlockHops (HTML canvas game) </h4>
     <a href="https://jem-kaybis.github.io/BlockHops/">
-      <img src="https://img.shields.io/badge/-BlockHops-lightgrey?style=for-the-badge&logoColor=white" alt="BlockHops Link"/>
+      <img src="https://img.shields.io/badge/-See Game-lightgrey?style=for-the-badge&logoColor=white" alt="BlockHops Link"/>
     </a>
+    <hr/>
     <div id="technologies">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
