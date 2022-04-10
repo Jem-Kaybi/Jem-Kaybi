@@ -53,7 +53,7 @@ I am still exploring tech to find my favourite thing about it, so I haven't sett
     <a href="https://jem-kaybis.github.io/BlockHops/">
       <img src="https://img.shields.io/badge/-See Game-lightgrey?style=for-the-badge&logoColor=white" alt="BlockHops Link"/>
     </a>
-    <p> Fun project using HTML canvas to create a doodle jump like game where a small plock jumps on platforms to collect points in HTML, CSS and vanilla Javascript </p>
+    <p> Fun project using HTML canvas to create a doodle jump like game where a small block jumps on platforms to collect points in HTML, CSS and vanilla Javascript </p>
     <div id="technologies">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="20" height="20"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="20" height="20"/>&nbsp;
