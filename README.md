@@ -13,9 +13,9 @@
 ---
 
 ### :woman_technologist: About Me
-I am a full-time Computer Science Honours student at the University of the Witwatersrand and the Head of the Wits Developer Society (WDS). WDS is a society I co-founded to provide aspiring developers at Wits a platform to interact with companies and their peers and to learn interesting things about themselves by collaborating on projects with said peers, attending our workshops or trying their luck at our hackathons.
+I am a Software Engineer as well as the Founder and former Head of the Wits Developer Society (WDS). WDS is a society I co-founded to provide aspiring developers at Wits a platform to interact with companies and their peers and to learn interesting things about themselves by collaborating on projects with said peers, attending our workshops or trying their luck at our hackathons.
 
-When I'm not studying Computer Science or running my society, you can find me
+When I'm not working, you can find me
 
 📚 tucked in a corner somewhere reading a book,
 
@@ -26,7 +26,7 @@ When I'm not studying Computer Science or running my society, you can find me
 🖌️ creating something (I love to paint, draw and crochet)
 
 
-I am still exploring tech to find my favourite thing about it, so I haven't settled on an exact role. For the moment, to best describe what I'm interested in I would consider myself a full-stack developer.
+I am currently a Front-end developer but would like to transition to a more full-stack role in the near future.
 
 ### My Projects
 <div id="projects">
