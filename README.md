@@ -74,7 +74,7 @@ I am currently a Front-end developer but would like to transition to a more full
 </div>
 
 ### In the future I would like to explore the following technologies more
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="20" height="20"/>  AWS &nbsp;<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="20" height="20"/>  AWS &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="20" height="20"/> Azure &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20" height="20"/> Flutter &nbsp;<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> Java &nbsp;<br>
