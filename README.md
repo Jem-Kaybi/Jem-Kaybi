@@ -19,14 +19,14 @@ When I'm not working, you can find me
 
 📚 tucked in a corner somewhere reading a book,
 
-🗣 learning new languages (currently german),
+🗣 learning new languages (currently dutch),
 
-🏊‍♀️ swimming, or
+💃 moving my body (dancing, climbing, swimming), or
 
 🖌️ creating something (I love to paint, draw and crochet)
 
 
-I am currently a Front-end developer but would like to transition to a more full-stack role in the near future.
+My career has been pretty frontend heavy but I am currently working on expanding my backend knowledge more. 
 
 ### My Projects
 <div id="projects">
