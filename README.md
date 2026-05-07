@@ -1,21 +1,60 @@
-<div id="header" align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1uODqXryuYz97vFVwgrkhLcTNx9MUm0F1" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/je-mekruger-baartjes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://linktr.ee/witsdevsoc">
-    <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree Badge"/>
-  </a>
-</div>
+Hi, I'm Je-Mé 👋
 
----
+Software engineer currently based in the Netherlands, with experience across frontend, backend, and infrastructure-related work.
 
-### :woman_technologist: About Me
-I am a Software Engineer as well as the Founder and former Head of the Wits Developer Society (WDS). WDS is a society I co-founded to provide aspiring developers at Wits a platform to interact with companies and their peers and to learn interesting things about themselves by collaborating on projects with said peers, attending our workshops or trying their luck at our hackathons.
+I enjoy building systems that are practical, maintainable, and useful — from UI components and internal tools to backend services, automation, and event-driven workflows.
 
-When I'm not working, you can find me
+Previously, I co-founded and led the Wits Developer Society (WDS), helping grow a student developer community through workshops, hackathons, and industry events.
+
+🌱 What I'm Currently Exploring
+Backend engineering and distributed systems
+Cloud and infrastructure tooling
+Kafka and event-driven architectures
+Data-oriented systems
+Developer experience and automation
+Thoughtful user experiences
+
+🛠 Technologies I've Worked With
+
+Languages & Backend
+
+Python
+Java
+JavaScript / TypeScript
+C#
+
+Frontend
+
+React
+Vue
+Angular
+HTML / CSS
+
+Infrastructure & Tooling
+
+Kafka
+GraphQL
+SQL
+AWS
+CI/CD workflows
+
+
+📌 Selected Projects
+Rewards-Based Data Labelling Platform
+
+Group project built with Vue, Vuetify, and TypeScript.
+
+Worked on frontend development, testing, and project collaboration workflows using GitHub and Jira.
+
+BlockHops
+
+A small browser game inspired by Doodle Jump, built using HTML canvas and vanilla JavaScript.
+
+Created as a fun exploration of browser rendering and game mechanics.
+
+Outside of Tech
+
+When I’m not coding, you’ll probably find me:
 
 📚 tucked in a corner somewhere reading a book,
 
@@ -26,7 +65,6 @@ When I'm not working, you can find me
 🖌️ creating something (I love to paint, draw and crochet)
 
 
-My career has been pretty frontend heavy but I am currently working on expanding my backend knowledge more. 
 
 ### My Projects
 <div id="projects">
@@ -62,20 +100,3 @@ My career has been pretty frontend heavy but I am currently working on expanding
   </div>
 
 </div>
-
-
-### My favourite technologies include
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="20" height="20"/>  Python&nbsp;<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/> JavaScript&nbsp;<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> React&nbsp;<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="React" alt="Vue" width="20" height="20"/> Vue &nbsp;<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="20" height="20"/> C# &nbsp;<br>
-</div>
-
-### In the future I would like to explore the following technologies more
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="20" height="20"/>  AWS &nbsp;<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="20" height="20"/> Azure &nbsp;<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20" height="20"/> Flutter &nbsp;<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> Java &nbsp;<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Java" alt="Java" width="20" height="20"/> Ionic &nbsp;<br>
