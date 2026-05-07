@@ -6,53 +6,39 @@ I enjoy building systems that are practical, maintainable, and useful — from U
 
 Previously, I co-founded and led the Wits Developer Society (WDS), helping grow a student developer community through workshops, hackathons, and industry events.
 
-🌱 What I'm Currently Exploring
-Backend engineering and distributed systems
-Cloud and infrastructure tooling
-Kafka and event-driven architectures
-Data-oriented systems
-Developer experience and automation
-Thoughtful user experiences
+### 🌱 What I'm Currently Exploring
+  Backend engineering and distributed systems
+  Cloud and infrastructure tooling
+  Kafka and event-driven architectures
+  Data-oriented systems
+  Developer experience and automation
+  Thoughtful user experiences
 
-🛠 Technologies I've Worked With
+### 🛠 Technologies I've Worked With
 
-Languages & Backend
+ #### Languages & Backend
 
-Python
-Java
-JavaScript / TypeScript
-C#
+    Python
+    Java
+    JavaScript / TypeScript
+    C#
 
-Frontend
+  #### Frontend
 
-React
-Vue
-Angular
-HTML / CSS
+    React
+    Vue
+    Angular
+    HTML / CSS
 
-Infrastructure & Tooling
+#### Infrastructure & Tooling
 
-Kafka
-GraphQL
-SQL
-AWS
-CI/CD workflows
+  Kafka
+  GraphQL
+  SQL
+  AWS
+  CI/CD workflows
 
-
-📌 Selected Projects
-Rewards-Based Data Labelling Platform
-
-Group project built with Vue, Vuetify, and TypeScript.
-
-Worked on frontend development, testing, and project collaboration workflows using GitHub and Jira.
-
-BlockHops
-
-A small browser game inspired by Doodle Jump, built using HTML canvas and vanilla JavaScript.
-
-Created as a fun exploration of browser rendering and game mechanics.
-
-Outside of Tech
+### Outside of Tech
 
 When I’m not coding, you’ll probably find me:
 
@@ -66,7 +52,8 @@ When I’m not coding, you’ll probably find me:
 
 
 
-### My Projects
+
+### 📌 Selected Projects
 <div id="projects">
   
   <div id="rewards-based-data-labelling">
