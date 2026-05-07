@@ -32,11 +32,11 @@ Previously, I co-founded and led the Wits Developer Society (WDS), helping grow 
 
 #### Infrastructure & Tooling
 
-  Kafka
-  GraphQL
-  SQL
-  AWS
-  CI/CD workflows
+    Kafka
+    GraphQL
+    SQL
+    AWS
+    CI/CD workflows
 
 ### Outside of Tech
 
